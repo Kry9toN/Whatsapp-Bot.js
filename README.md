@@ -10,6 +10,9 @@
 
 </div>
 
+## Changelog
+-
+
 ## Features
 
 | Sticker Creator|                Feature                          |
@@ -33,7 +36,7 @@
 | Edukasi        |                     Feature                     |
 | :------------: | :---------------------------------------------: |
 |       ✅       |   Translate text (quote only)                   |
-|       ✅       |   Brainly search engine                         |
+|       BUG      |   Brainly search engine                         |
 |       ✅       |   Wiki search engine                            |
 
 | Other          |                     Feature                     |
@@ -52,6 +55,12 @@
 |       ✅       |   Mention All User                              |
 |       ✅       |   Global Banned                                 |
 |       ✅       |   Filters Message                               |
+|       ✅       |   AFK                                           |
+|       ✅       |   Welcome                                       |
+|       ✅       |   Goodbye                                       |
+|       ✅       |   Notes Message                                 |
+|       ✅       |   Blacklist text                                |
+|       ✅       |   Warn                                          |
 
 ## Database
  - Use Postgresql Databse
